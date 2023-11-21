@@ -4,7 +4,7 @@ name: deploy-extpipes-cli
 on:
     push:
         branches:
-            - AB-main2
+            - main
 
         paths:
             - config/extpipes/**
